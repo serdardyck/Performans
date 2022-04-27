@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+	font-family: 'Quicksand', sans-serif;
+}
+img.üst{
+    width: 80% auto;
+    height: 80%;
+}
+img.alt{
+    margin:0 auto 0 auto;
+	display:table;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    max-width: 100%;
+    height: auto;
+    border-radius: 100%;
+}
+h2{
+    text-align: center;
+    color: black;
+}
+h4{
+    text-align: center;
+    color: black;
+    opacity: 0.6;
+    font-style: italic;
+}
+div.metin{
+    padding: 50px;
+    text-align: center;
+    color: black;
+
+}
